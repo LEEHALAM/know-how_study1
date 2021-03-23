@@ -1,0 +1,29 @@
+body {
+  background-color: white;
+}
+
+.container {
+  margin: 60px auto;
+  width: 500px;
+  height: 600px;
+  background-color: white;
+  border-radius: 30px;
+  border: 10px solid #2a9d8f;
+  text-align: center;
+  background-image: url(images/배경.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.profile {
+  margin-top: 100px;
+  border-radius: 50%;
+  border: 5px solid black;
+}
+
+.link {
+  background-color: white;
+  opacity: 0.8;
+  margin-top: 50px;
+}
